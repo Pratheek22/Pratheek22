@@ -31,8 +31,8 @@ I enjoy working on systems that involve asynchronous processing, fault tolerance
 
 - Pursuing B.Tech in Computer Science and Engineering
 - CGPA: **9.05 / 10**
-- Software Engineering Intern at **Flipkart**
-- Research Intern at **cHEAL Research Centre**
+- Ex-Software Engineering Intern at **Flipkart**
+- Ex-Research Intern at **cHEAL Research Centre**
 - Main inventor on a published patent application in AI-based dyslexia support
 - Teaching Assistant at PES University
 
